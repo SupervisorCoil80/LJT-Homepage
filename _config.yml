@@ -114,6 +114,7 @@ include:
 exclude:
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
   - node_modules
@@ -122,6 +123,11 @@ exclude:
   - Gemfile.lock
   - README
   - LICENSE
+  - markdown_generator
+  - scripts
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap
 keep_files:
   - .git
   - .svn
