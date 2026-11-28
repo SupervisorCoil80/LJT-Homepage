@@ -11,7 +11,7 @@ repository               : "SupervisorCoil80/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           :
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning; interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability."
@@ -147,6 +147,7 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - AGENTS.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -160,15 +161,21 @@ exclude:
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
-  - README
+  - README.md
   - tmp
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
   - vendor
 keep_files:
   - .git
   - .svn
+
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
