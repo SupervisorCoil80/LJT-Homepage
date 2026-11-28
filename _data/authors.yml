@@ -2,6 +2,6 @@ Junteng Liu:
   name: "Junteng Liu"
   email: "jliugi@connect.ust.hk"
   bio: "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning, LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability."
-  avatar: "profile.png"
+  avatar:
   twitter: "junteng88716710"
   github: "Vicent0205"
